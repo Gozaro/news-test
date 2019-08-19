@@ -1,0 +1,14 @@
+{
+    status: "ok",
+
+    assets: [{
+            "background": "label",
+        },
+        {
+            "burgernav-color": "label",
+        },
+        {
+            "secction-menu": "label"
+        }
+    ]
+}
