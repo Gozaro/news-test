@@ -140,14 +140,14 @@ Hamburger Nav
     border-radius: 70px;
     position: absolute;
     left: 31px;
-    top: 6px;
+    top: 25px;
     display: none;
 }
 
 #menuToggle {
     display: block;
     position: absolute;
-    top: 20px;
+    top: 40px;
     left: 40px;
     z-index: 1;
     -webkit-user-select: none;
@@ -219,7 +219,7 @@ Hamburger Nav
     position: absolute;
     width: 300px;
     height: 100vh;
-    margin: -50px 50px 50px -50px;
+    margin: -67px 50px 50px -50px;
     padding: 50px;
     padding-top: 125px;
     background: #ededed;
