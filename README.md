@@ -4,7 +4,7 @@ I have use https://newsapi.org/ to provide some news content to the project.
 There is a mock at https://www.mockapi.io I'm using a JSON file to provide customization:
 http://5d4b069b00dbb10014879772.mockapi.io/api/v1/designElements
 
-You can do a basic test of the App with Jest, run in the project directory:
+You can do a basic test of the App with Jest running in the main directory:
 ### `npm test`
 
 Installation:
