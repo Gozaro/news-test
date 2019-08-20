@@ -7,7 +7,7 @@ http://5d4b069b00dbb10014879772.mockapi.io/api/v1/designElements
 You can do a basic test of the App with Jest running in the main directory:
 ### `npm test`
 
-Installation:
+##Installation
 
 Clone project:
 https://github.com/Gozaro/news-test.git
