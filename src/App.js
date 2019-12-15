@@ -57,7 +57,7 @@ hideGreenBurger = () => {
 
 
 callNews = async () => {
-  const url =`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=97d2f4f82eee439380a026344842b459`;
+  const url =`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=xxxx`;
 
   const response = await fetch(url);
   const news = await response.json();
